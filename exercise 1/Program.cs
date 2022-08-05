@@ -11,7 +11,7 @@ if (num1 > num2)
 {
     Console.WriteLine($"максимальное число: {num1}");
 }
-if (num1 < num2)
+if (num1 < num2) 
 {
     Console.WriteLine($"максимальное число: {num2}");
 }
